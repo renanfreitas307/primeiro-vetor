@@ -22,6 +22,7 @@ for (int i=0; i<n; i++) {
 		double avg = sum / n;
 		
 		System.out.printf("AVERAGE HEIGHT: %.2f%n", avg);
+		System.out.println("TETAS!!!");
 		
 		
 		sc.close();
